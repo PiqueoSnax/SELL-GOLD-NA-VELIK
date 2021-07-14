@@ -6,3 +6,4 @@ Available = 40 Million (might go up in time)
 Payment is only via PayPal.  
 We can trade 1 million at a time for ur safety  
 Thanks for ur time
+
